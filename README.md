@@ -28,3 +28,6 @@ called is fetchRecord in the class CustomerDataInsert which again takes customer
 
 
 
+Database
+
+To create database in MySql use MySQLScript.sql which will create database esgdbo and table custrec
