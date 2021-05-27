@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ESGRESTAPI
+{
+    public class ApiResponse
+    {
+        public int httpcode { get; set; }
+        public string message { get; set; }
+    }
+
+}
